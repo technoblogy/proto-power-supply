@@ -1,7 +1,7 @@
 /* Proto Power Supply
  
    David Johnson-Davies - www.technoblogy.com - 4th November 2017
-   ATmega328P @ 8 MHz (internal oscillator; BOD disabled)
+   ATmega328P @ 8 MHz (internal oscillator; BOD enabled (4.3V))
    
    CC BY 4.0
    Licensed under a Creative Commons Attribution 4.0 International license: 
